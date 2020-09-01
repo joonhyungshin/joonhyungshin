@@ -1,16 +1,17 @@
-### Hi there 👋
+### Joonhyung Shin (Joon)
 
-<!--
-**joonhyungshin/joonhyungshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
-Here are some ideas to get you started:
+[![Codeforces](https://run.kaist.ac.kr/badges/codeforces/jo_on)](https://codeforces.com/profile/jo_on)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about me
+
+- Just call me _Joon_!
+- I am a math student, and I want to be a great mathematician. 😄
+- I like to write computer programs.
+- I enjoy competitive programming.
+
+### My websites
+
+- [Homepage](https://www.joonhyung.xyz/)
+- [Tistory blog](https://tistory.joonhyung.xyz/) (Korean blog, mostly about algorithms)
