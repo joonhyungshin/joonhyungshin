@@ -2,9 +2,9 @@
 
 Hi there 👋
 
-[![Codeforces](https://run.kaist.ac.kr/badges/codeforces/jo_on)](https://codeforces.com/profile/jo_on)
-[![TopCoder](https://run.kaist.ac.kr/badges/topcoder/jo_on)](https://www.topcoder.com/members/jo_on/details/?track=DATA_SCIENCE&subTrack=SRM)
-[![AtCoder](https://run.kaist.ac.kr/badges/atcoder/topology)](https://atcoder.jp/users/topology)
+[![Codeforces](https://run.kaist.ac.kr/badges/codeforces/jo_on.svg)](https://codeforces.com/profile/jo_on)
+[![TopCoder](https://run.kaist.ac.kr/badges/topcoder/jo_on.svg)](https://www.topcoder.com/members/jo_on/details/?track=DATA_SCIENCE&subTrack=SRM)
+[![AtCoder](https://run.kaist.ac.kr/badges/atcoder/topology.svg)](https://atcoder.jp/users/topology)
 
 ### A little about me
 
